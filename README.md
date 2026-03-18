@@ -9,5 +9,3 @@ Medium: <https://medium.com/@bx2233/fine-tuning-a-fingpt-forecaster-with-lora-on
 - GPU: NVIDIA A100-SXM4-80GB
 - Key metrics: eval_loss=0.7109, final train_loss=2.3143, steps=77, epoch=1
 
-## Code
-See files in this folder.
